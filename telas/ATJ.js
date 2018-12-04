@@ -488,7 +488,7 @@ export default class ATJ extends Component<Props> {
         animationIn="slideInLeft"  
         backdropOpacity={0.9}>
         <View style={styles.modalContent}>
-        <Text style={styles.paragI2}></Text>
+        <Text style={styles.paragI2}>CONSELHO TUTELAR: Rua Luis Francisco dos Santos, S/N - Cep: 63360-000 - (88) 99745.2132  Mardonio - (88) 99605.3534 Vildenelia</Text>
         </View>
         </Modal>
 
@@ -660,6 +660,7 @@ export default class ATJ extends Component<Props> {
         <Text style={styles.paragI2}>CAPS I: Rua 7 de Setembro, S/N - (88) 3663-1048</Text>
         <Text style={styles.paragI2}>CRAS: Rua 7 de Setembro, S/N, Centro - Cep: 62570-000 - (88) 3663-3095</Text>
         <Text style={styles.paragI2}>CREAS: Rua Nossa Senhora de Fátima, S/N, Centro - (88) 3663-3111</Text>
+        <Text style={styles.paragI2}>CONSELHO TUTELAR: Rua 07 de Setembro, s/n Centro - Cep: 62570-000 - (88)997145113</Text>
         </View>
         </Modal>
 
@@ -782,6 +783,7 @@ export default class ATJ extends Component<Props> {
         <Text style={styles.paragI2}>CRAS RURAL: Carqueja - Centro - (85) 3326-1323</Text>
         <Text style={styles.paragI2}>CRAS SEDE PE. BERNARDO BOURASSA: Rua Antônio Fernandes Bezerra, S/N, Centro - Cep: 62748-000 - (85) 3326-1323</Text>
         <Text style={styles.paragI2}>CREAS: Rua José Saraiva Sobrinho, S/N, Centro - Cep: 32748-000 - (85) 3326-1329</Text>
+        <Text style={styles.paragI2}>CONSELHO TUTELAR: Rua Vice Prefeito Adarias Lopes de Sousa, S/N Estação do Trabalhos - Centro  - Cep: 62748-000 - (85) 99916.2561</Text>
         </View>
         </Modal>
 
@@ -856,7 +858,7 @@ export default class ATJ extends Component<Props> {
         <View style={styles.modalContent}>
         <Text style={styles.paragI2}>CRAS DISTRITO: Rua da Rodagem, S/N, Zona Rural - Cep: 63530-000 - (88) 3514-1384</Text>
         <Text style={styles.paragI2}>CRAS SEDE: Rua Raul Nogueira, S/N, Centro – Cep: 63530-000 - (88) 3514-1384</Text>
-
+        <Text style={styles.paragI2}>CONSELHO TUTELAR: Rua Coronel Boa Ventura, s/n Centro - Cep: 62375-000 - (88) 3514.1296 - (88) 996780557 - (88) 996920804 </Text>
         </View>
         </Modal>
 
@@ -1002,6 +1004,7 @@ export default class ATJ extends Component<Props> {
         backdropOpacity={0.9}>
         <View style={styles.modalContent}>
         <Text style={styles.paragI2}>CRAS: Rua Coronel José Porfilho, 341, Centro - Cep: 62420-000 - (88) 3625-1482, (88) 3625-1196</Text>
+        <Text style={styles.paragI2}>CONSELHO TUTELAR: Rua Zefirino Costa, 321 Centro - Cep: 62420-000 - (88) 988822113   Cons Reginaldo - (88) 988730790 - (88) 988221015</Text>
         </View>
         </Modal>
 
@@ -1036,6 +1039,7 @@ export default class ATJ extends Component<Props> {
         backdropOpacity={0.9}>
         <View style={styles.modalContent}>
         <Text style={styles.paragI2}>CRAS MENINO JESUS: Rua Luiz Félix Pereira, S/N, Centro - Cep: 62.875-000 - (85) 3319-1122</Text>
+        <View style={styles.paragI2}>CONSELHO TUTELAR: Av.Raimundo Simplicio de Carvalho, 766 Centro - Cep: 62875-000 - (85) 3319.1333</View>
         </View>
         </Modal>
 
@@ -1076,6 +1080,7 @@ export default class ATJ extends Component<Props> {
         <Text style={styles.paragI2}>CRAS II: Rua Santa Rita, 100, Venâncios - Cep: 63700-000 - (88) 3692-3319</Text>
         <Text style={styles.paragI2}>CRAS III: Rua Gentil Cardoso, 165. Conj. São José. Cep: 63700-000 - (88) 3692-3319</Text>
         <Text style={styles.paragI2}>CREAS: Rua Manuel Balbino, 180. Santa Luzia. - (88) 3691-2090</Text>
+        <Text style={styles.paragI2}>CONSELHO TUTELAR: Rua Carlos Rolim, 255 Centro - Cep: 63700-000 - (88) 3691.7255 - (88) 994466438 - (88)  992163900 - (88)  992196412 - (88)  998007395 - (88)  999427300</Text>
         </View>
         </Modal>
 
@@ -1116,6 +1121,7 @@ export default class ATJ extends Component<Props> {
         <View style={styles.modalContent}>
         <Text style={styles.paragI2}>CRAS DISTRITO: Rua Luíz Pedro, S/N - (88) 3659-1164</Text>
         <Text style={styles.paragI2}>CRAS SEDE: Rua Manuel Braga, 537, Caroba - Cep: 62390-000 - (88) 3659-1164</Text>
+        <Text style={styles.paragI2}>CONSELHO TUTELAR: Rua Vereador Raimundo R Abreu, s/n Caroba - Cep: 62390-000 - (88)992496356</Text>
         </View>
         </Modal>
 
@@ -1168,6 +1174,7 @@ export default class ATJ extends Component<Props> {
         backdropOpacity={0.9}>
         <View style={styles.modalContent}>
         <Text style={styles.paragI2}>CRAS: Av. Padre Daniel, S/N, Centro – Cep: 63470-000 - (88) 3434-1041</Text>
+        <Text style={styles.paragI2}>CONSELHO TUTELAR: Rua Senador  Fernandes Tavora, s/n bairro Francisco Nogueira - Cep: 63470-000 - (88) 998056016  Ceiça - (88) 998507222 Marta - (88) 996981406 Leonardo</Text>
         </View>
         </Modal>
 
@@ -1392,6 +1399,7 @@ export default class ATJ extends Component<Props> {
         <Text style={styles.paragI2}>CRAS: Av. Monsenhor Furtado, S/N, Centro - Cep: 62380-000 - (88) 3652-1133</Text>
         <Text style={styles.paragI2}>CRAS RURAL: Distrito Vazia dos Espinhos - (88) 3652-1133</Text>
         <Text style={styles.paragI2}>CREAS: Rua Fco. Bezerra, S/N, Centro - (88) 3652-1133</Text>
+        <Text style={styles.paragI2}>CONSELHO TUTELAR: Av. Monsenhor Furtado, 539 Centro - Cep: 62380-000 - (88) 3652.2167 - (88) 99840.1426  </Text>
         </View>
         </Modal>
 
@@ -1731,6 +1739,7 @@ export default class ATJ extends Component<Props> {
         <Text style={styles.paragI2}>CRAS MARIA OCITA FREITAS CRUZ: Av. Raimundo Vieira Filho, 511, Distrito de Iratinga – Cep: 62600-000 - (85) 3346-1033</Text>
         <Text style={styles.paragI2}>CRAS SEDE: Rua Manoel Bernardo, 50. Bairro de Fátima - Cep: 62600-000 - (85) 3346-1033</Text>
         <Text style={styles.paragI2}>CREAS: Rua Alvares Valdez, 139, Padre Lima - (85) 3346-1033</Text>
+        <Text style={styles.paragI2}>CONSELHO TUTELAR: Av. Antônio Pereira de Melo, 300 Centro - Cep: 62600-000 - (85) 3346.0001 - (85) 991068822</Text>
         </View>
         </Modal>
         <TouchableOpacity onPress={() => this.setState({vis:88})}>
@@ -1786,6 +1795,7 @@ export default class ATJ extends Component<Props> {
         <Text style={styles.paragI2}>CRAS ALMOFADA: Av. João Augustinho Nascimento, S/N. Zona Rural. Cep: 62590-000 - (88) 3667-2136</Text>
         <Text style={styles.paragI2}>CRAS SEDE: Av. Rios, S/N, Centro - Cep: 62590-000 - (88) 3667-1766</Text>
         <Text style={styles.paragI2}>CREAS: Rua José Fernandes de Sousa, 368 – Centro - (88) 3667-1197</Text>
+        <Text style={styles.paragI2}>CONSELHO TUTELAR: Av. Rios, 726 Centro - Cep: 62590-000 - (88) 36671203</Text>
         </View>
         </Modal>
         <TouchableOpacity onPress={() => this.setState({vis:91})}>
@@ -1983,6 +1993,7 @@ export default class ATJ extends Component<Props> {
         <Text style={styles.paragI2}>CRAS II: Rua Coronel Joaquim Gonçalves, S/N, Centro - Cep: 63300-000 - (88) 3536-4125 (88) 3536-4030</Text>
         <Text style={styles.paragI2}>CRAS III: Travessa São Francisco, 05, Centro, Distrito Quitaiús - Cep: 63300-000 - (88) 3336-5134</Text>
         <Text style={styles.paragI2}>CREAS: Rua Chavier Angelo, 118, Centro - (88) 3536-1066</Text>
+        <Text style={styles.paragI2}>CONSELHO TUTELAR: Rua Vicente Machado, 224 Vila Bancaria - Cep: 63300-000 - (88) 992985231 - (88) 997529174</Text>
         </View>
         </Modal>
         <TouchableOpacity onPress={() => this.setState({vis:102})}>
@@ -2001,6 +2012,7 @@ export default class ATJ extends Component<Props> {
         <Text style={styles.paragI2}>CRAS ANTONIO HOLANDA: Rua José Guerreiro Sobrinho, S/N, Antônio Holanda – Cep: 62930-000 - (88) 3423-1340</Text>
         <Text style={styles.paragI2}>CRAS CENTRO: Rua Coronel José Nunes,536, Centro - Cep: 62930-000 - (88) 3423-1641</Text>
         <Text style={styles.paragI2}>CREAS: Rua Coronel Antonio Joaquim, 1201,Centro - Cep: 62930-000 - (88) 3423-1518</Text>
+        <Text style={styles.paragI2}>CONSELHO TUTELAR: Av, Fracisco Remigio, 557 Centro - Cep: 62930-000 - (88) 997829633 - (88) 994378896</Text>
         </View>
         </Modal>
         <TouchableOpacity onPress={() => this.setState({vis:103})}>
@@ -2084,6 +2096,7 @@ export default class ATJ extends Component<Props> {
         <Text style={styles.paragI2}>CRAS SEDE: Rua Governador Raul Barbosa, 1051, Coqueirinho - Cep: 62560-000 - (88) 3664-1077</Text>
         <Text style={styles.paragI2}>CRAS TRIÂNGULO: Rua Governador Raul Barbosa, S/N. Coqueirinho. Cep: 62560-000 - (88) 3664-1077</Text>
         <Text style={styles.paragI2}>CREAS: Rua 22 de Novembro, S/N, Centro - (88) 3664-1118</Text>
+        <Text style={styles.paragI2}>CONSELHO TUTELAR: Rua. Osterno, 53 Centro - Cep: 62560-000 - (88) 996678017</Text>
         </View>
         </Modal>
         <TouchableOpacity onPress={() => this.setState({vis:107})}>
@@ -2133,6 +2146,7 @@ export default class ATJ extends Component<Props> {
         <Text style={styles.paragI2}>CRAS PALESTINA: Rua São José, S/N, Distrito de Palestina - (88) 3552-1491</Text>
         <Text style={styles.paragI2}>CRAS SEDE: Rua Capitão Miguel Dantas, 151, Centro - Cep: 63210-000 - (88) 3552-1491</Text>
         <Text style={styles.paragI2}>CREAS: Rua Capitão Miguel Dantas, 151. Centro. Cep: 63210-000 - (88) 3552-1491</Text>
+        <Text style={styles.paragI2}>CONSELHO TUTELAR: Rua José Dodó, 195  Centro - Cep: 63210-000 - (88) 997958752</Text>
         </View>
         </Modal>
         <TouchableOpacity onPress={() => this.setState({vis:110})}>
@@ -2167,6 +2181,7 @@ export default class ATJ extends Component<Props> {
         <Text style={styles.paragI2}>CRAS FRANCISCO COELHO DA CRUZ: Vila Fronteiro, S/N, Zona Rural - Cep: 63260-000 - (88) 3553-1279</Text>
         <Text style={styles.paragI2}>CRAS PADRE CÍCERO: Vila Padre Cícero - (88) 3553-1279</Text>
         <Text style={styles.paragI2}>CREAS: Rua Jose Esmeraldo da Silva, 180, Centro - (88) 3553-1751</Text>
+        <Text style={styles.paragI2}>CONSELHO TUTELAR: Rua Julio Sampaio, 264 Frei Damião - Cep: 63250-000 - (88)35535333</Text>
         </View>
         </Modal>
         <TouchableOpacity onPress={() => this.setState({vis:112})}>
@@ -2196,6 +2211,7 @@ export default class ATJ extends Component<Props> {
         backdropOpacity={0.9}>
         <View style={styles.modalContent}>
         <Text style={styles.paragI2}>CRAS: Rua José Linhares, 583, Alto - Cep: 62530-000 - (88) 3630-1092</Text>
+        <Text style={styles.paragI2}>CONSELHO TUTELAR: Av. Mingueira Braga, 515 bairro Altos - Cep: 62.530-000 - (88)3630.1300</Text>
         </View>
         </Modal>
         <TouchableOpacity onPress={() => this.setState({vis:114})}>
@@ -2214,6 +2230,7 @@ export default class ATJ extends Component<Props> {
         <Text style={styles.paragI2}>CRAS RURAL: Rua do Comércio, S/N, Distrito de Jamacarú, Centro - (88) 3542-1865</Text>
         <Text style={styles.paragI2}>CREAS MUNICIPAL: Rua São Francisco, 252, Centro - (88) 3542-1193</Text>
         <Text style={styles.paragI2}>CREAS REGIONAL: Rua Duque de Caxias, S/N, Centro - (88) 3545-1267</Text>
+        <Text style={styles.paragI2}>CONSELHO TUTELAR: Rua Desembargador Gilvencio, 263 Centro - Cep: 63200-000 - (88)99910.8890</Text>
         </View>
         </Modal>
         <TouchableOpacity onPress={() => this.setState({vis:115})}>
@@ -2393,6 +2410,7 @@ export default class ATJ extends Component<Props> {
         <View style={styles.modalContent}>
         <Text style={styles.paragI2}>CRAS: Rua Francisco Lopes, S/N, Alto da Boa Vista - Cep: 62200-000 - (88) 3672-1324</Text>
         <Text style={styles.paragI2}>CREAS: Rua Quintino Bocaúna, S/N, Alto da Boa Vista - Cep: 62200-000 - (88) 3672-0495</Text>
+        <Text style={styles.paragI2}>CONSELHO TUTELAR: Rua Alipio Gomes, s/n Centro/ Parque da Criança - Cep: 62.200-000 - (88) 36721924</Text>
         </View>
         </Modal>
 
@@ -2677,6 +2695,7 @@ export default class ATJ extends Component<Props> {
         <View style={styles.modalContent}>
         <Text style={styles.paragI2}>CRAS: Rua Vitória Novaes, S/N. Centro. - (88) 3559-1289</Text>
         <Text style={styles.paragI2}>CREAS: Rua Nossa Senhora do Socorro, 487 – Centro - (88) 3559-1289</Text>
+        <Text style={styles.paragI2}>CONSELHO TUTELAR: Rua. N. Sra. Perpetuo Socorro, 487 Centro  - Cep: 63280-000 - (88 ) 988572394</Text>
         </View>
         </Modal>
         
@@ -2782,6 +2801,7 @@ export default class ATJ extends Component<Props> {
         backdropOpacity={0.9}>
         <View style={styles.modalContent}>
         <Text style={styles.paragI2}>CRAS CASA DA FAMÍLIA: Av. Dr. Epitácio de Pinho, S/N, Vila Nova - Cep: 62220-000 - (88) 3658-1144</Text>
+        <Text style={styles.paragI2}>CONSELHO TUTELAR: Av. Dr. Epitácio de Pinho, s/n Centro - Cep: 62220-000 - (88) 99736.7929 - (88) 999207712 - (88) 998124548</Text>
         </View>
         </Modal>
 
@@ -3373,6 +3393,7 @@ export default class ATJ extends Component<Props> {
         <Text style={styles.paragI2}>CRAS MARIA APOLINE BARROSO MOURA: Av. Salvador Martins, 02, Volta do S. - Cep: 62690-000 - (85) 3551-1721</Text>
         <Text style={styles.paragI2}>CRAS PADRE RODOLFO FERREIRA DA CUNHA: Rua Abraão Ferreira Cunha, S/N, Canaã - Cep: 62690-000 - (85) 3551-1721</Text>
         <Text style={styles.paragI2}>CREAS: Rua José da Silveira, 155, Centro - Cep: 62690-000 - (85) 3351-1721</Text>
+        <Text style={styles.paragI2}>CONSELHO TUTELAR: Rua Manoel Teixeira, 118 Centro - Cep: 62690-000 - (85)35188073 - (85) 99779.3041 - (85)99775.4574</Text>
         </View>
         </Modal>
 
@@ -3518,7 +3539,7 @@ export default class ATJ extends Component<Props> {
         animationIn="slideInLeft"  
         backdropOpacity={0.9}>
         <View style={styles.modalContent}>
-        <Text style={styles.paragI2}>CONSELHO TUTELAR: Rua Jose de Alencar, 96 Centro - (88)996050000 (88)997107194 Cons. Sidney</Text>
+        <Text style={styles.paragI2}>CONSELHO TUTELAR: Rua Jose de Alencar, 96 Centro - Cep: 62265-000 - (88)996050000 (88)997107194 Cons. Sidney</Text>
         </View>
         </Modal>
 
